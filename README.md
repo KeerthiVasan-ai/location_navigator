@@ -87,15 +87,21 @@ This project is a single-page React Native application built with Expo, integrat
    - Opens for turn-by-turn navigation.
 
 ## Screenshots
+![Screenshot_2024-12-21-15-49-29-759_host exp exponent](https://github.com/user-attachments/assets/b60920f1-4c65-4819-acbe-d40ca924be04)
 
 **1. Search Destination**  
-![Search Destination Screenshot](https://via.placeholder.com/300x600.png?text=Search+Destination)
+![Search Destination Screenshot](https://github.com/user-attachments/assets/bd614a45-75ef-469a-80f8-a0cd2c0e832e)
+)
 
-**2. Plot Route**  
-![Plot Route Screenshot](https://via.placeholder.com/300x600.png?text=Plot+Route)
+**2. Plot Route**
+![Plot Route Screenshot](https://github.com/user-attachments/assets/9712a575-4e93-433f-8aa2-2b2889a2fd92)
 
 **3. Navigation in Google Maps**  
-![Google Maps Screenshot](https://via.placeholder.com/300x600.png?text=Google+Maps)
+![Google Maps Screenshot](https://github.com/user-attachments/assets/982e69de-29ca-4eec-a448-93aac471f1f6)
+
+**4. Exit Navigation**
+![Exit Navigation Screenshot](https://github.com/user-attachments/assets/ff9cc147-2811-46b5-bf3c-cefb029dbc8e)
+
 
 ## Dependencies
 
