@@ -37,7 +37,7 @@ This project is a single-page React Native application built with Expo, integrat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/react-native-navigation-app.git
+   git clone https://github.com/KeerthiVasan-ai/location_navigator.git
    cd react-native-navigation-app
    ```
 
