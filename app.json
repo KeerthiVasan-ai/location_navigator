@@ -23,7 +23,7 @@
       "package": "com.keerthivasanai.location_navigator",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyAu07LB6dJdrKWXQquWWj6yYPeXz_iboM8"
+          "apiKey": "YOUR_API_KEY"
         }
       }
     },
