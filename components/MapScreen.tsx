@@ -94,7 +94,7 @@ const MapScreen: React.FC = () => {
         `https://api.openrouteservice.org/v2/directions/driving-car`,
         {
           params: {
-            api_key: "5b3ce3597851110001cf62484d788bc641f140759c178ab03adcbcf9",
+            api_key: "YOUR_ORS_API_KEY",
             start: `${userLocation.longitude},${userLocation.latitude}`,
             end: `${selectedLocation.longitude},${selectedLocation.latitude}`,
           },
